@@ -2,6 +2,7 @@ package _02_day;
 
 import java.util.List;
 
+//I got help with this question. It's a complex question.
 public class MockTest2 {
     public static int flippingMatrix(List<List<Integer>> matrix) {
         int sum = 0;
